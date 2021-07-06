@@ -17,7 +17,7 @@ section{
 .first-part img{
     width: 80%;
 }
-.first-button{
+.link-button{
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
     padding: 10px 20px;
@@ -25,3 +25,14 @@ section{
     font-weight: 400;
     color: white;
 }
+.second-section{
+    background-image: url(images/shapes/7.png);
+}
+.second-part{
+    width: 50%;
+    margin-left: 5%;
+}
+.second-part img{
+    width: 40%;
+    margin-left: 30%;
+    margin-top: 10%;
