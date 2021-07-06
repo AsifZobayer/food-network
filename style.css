@@ -42,10 +42,12 @@ footer{
 } 
 footer h3{
     color: #5b5b5b;
+    text-align: center;
 }
 footer span{
     color: #fba24f;
 } 
 footer p{
     color: #ffffff;
+    text-align: center;
 }
